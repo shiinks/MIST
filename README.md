@@ -1,3 +1,8 @@
+Here is a link to a full version of Fiji with MIST installed that is Cuda 10.0 compatbile:
+
+https://drive.google.com/file/d/1TtXyBiRxuqTMRAZ0HD1JYL5_3WQZ-qPa/view?usp=sharing
+
+
 For Modeled Integrated Scatter Tool see: [ScatterMIST](https://github.com/usnistgov/ScatterMIST)
 
 
